@@ -2,11 +2,11 @@ config.json
 *.zip
 *.tar
 *.tar.gz
-archive/
+/archive/
 archives/
 data/
 tmp/
-output/
+/output/
 *.csv
 *.out
 coverage.*
