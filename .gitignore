@@ -1,0 +1,13 @@
+config.json
+*.zip
+*.tar
+*.tar.gz
+archive/
+archives/
+data/
+tmp/
+output/
+*.csv
+*.out
+coverage.*
+bin/
